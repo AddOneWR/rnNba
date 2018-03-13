@@ -2,7 +2,7 @@
 ------
 
 #### 介绍
-本项目为react-native构建的nba app
+本项目为react-native构建的nba app
 设计灵感参考于另一app并对其进行简化
 
 #### 功能
@@ -21,4 +21,3 @@ yarn install
 
 打开xcode运行ios/nba/AppDelegate.h
 ```
-> 麻烦动动手指给个小星星鼓励一下啦QAQ
